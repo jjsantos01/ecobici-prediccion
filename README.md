@@ -1,1 +1,3 @@
 Este repositorio incluye el código usado para el procesamiento de datos y entrenamiento de modelos de machine learning para predecir el número de bicicletas en una estación (regresión) y su estatus (clasificación) en el [sistema Ecobici](https://ecobici.cdmx.gob.mx/datos-abiertos/) de la Ciudad de México. El código de entrenamiento de los modelos está en el archivo [modelos_ecobici.ipynb](/modelos_ecobici.ipynb). También construimos una API usando Flask para consultar las predicciones de los modelos, el código está en el folder [app](/app).
+
+Este proyecto fue desarrollado como parte del [concurso de visualización de datos de Ecobici](https://wdv.eventos.cimat.mx/) organizado por el CIMAT en 2019 y en el cual obtuvimos medalla de oro 🥇.
